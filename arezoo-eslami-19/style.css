@@ -1,0 +1,182 @@
+
+	*{
+		padding:0;
+		margin:0;
+	}
+
+	
+	div.container{
+		min-height:1198px;
+		width:950px;
+		margin:0 auto;
+		background-image:url('backguid2.jpg')
+		
+	}
+	
+	
+	div.floor1,
+	div.floor2,
+	div.floor3,
+	div.floor4,
+	div.floor5{
+		margin-top :10px;
+		padding-top: 1px;
+		outline:solid 1px darkorange;
+	
+	}
+	
+	.badboy{
+		width:0 !important;
+		height:0 !important;
+		min-height:0 !important;
+		min-width:0 !important;
+		clear:both;
+		float:none !important;
+		
+	}
+/*----------------------------------*/
+	
+	div.floor1{
+		padding-top:20px;
+	}
+		
+	
+	div.floor1 div.logo{
+		outline:1px dotted green;
+		float:left;
+		width:155px;
+		min-height:180px;
+		margin-left:80px;
+	}
+	
+	div.floor1 div.main-menu{
+		outline:1px dotted green;
+		width:630px;
+		min-height:155px;
+		margin-left:320px;
+	
+	}
+	
+	div.floor1 div.menu{
+		outline:1px dotted red;
+		width:465px;
+		min-height:50px;
+		
+	}
+/*----------------------------------*/
+	
+	
+	
+	div.floor2 div.baner{
+		outline:1px dotted green;
+		width:930px;
+		min-height:315px;
+		margin-left:10px;
+
+	}
+/*----------------------------------*/
+	
+	div.floor3{
+		padding-top:30px;
+	}
+	
+	div.floor3 div.top-news1{
+		outline:1px dotted green;
+		float:left;
+		width:310px;
+		min-height:250px;	
+		
+	}
+		
+	div.floor3 div.top-news2{
+		float:left;
+		outline:1px dotted red;
+		margin-left:15px;
+		width:300px;
+		min-height:250px;	
+		
+	}
+	
+	div.floor3 div.top-news3{
+		outline:1px dotted blue;
+		margin-left:auto;
+		width:300px;
+		min-height:250px;
+		margin-right:10px;	
+		
+	}
+
+/*----------------------------------*/
+
+	div.floor4{
+		padding-top:30px;
+		
+	}
+	
+	div.floor4 div.info1{
+		outline:1px dotted darkred;
+		float:left;
+		width:150px;
+		min-height:250px;	
+		
+	}
+	
+	div.floor4 div.info2{
+		float:left;
+		outline:1px dotted green;
+		margin-left:95px;
+		width:220px;
+		min-height:250px;
+			
+		
+	}
+	
+	div.floor4 div.info3{
+		float:left;
+		outline:1px dotted darkmagenta;
+		margin-left:20px;
+		width:180px;
+		min-height:250px;
+		
+	}
+	div.floor4 div.info4{
+		outline:1px dotted blue;
+		margin-left:auto;
+		width:230px;
+		min-height:250px;
+		
+	}
+/*----------------------------------*/
+	div.floor5{
+		padding:5px;
+		
+	}
+
+	div.floor5 div.footer1{
+		float:left;
+		outline:1px dotted blue;
+		width:280px;
+		min-height:50px;
+		
+	}
+	div.floor5 div.footer2{
+		outline:1px dotted darkred;
+		margin-left:470px;
+		width:230px;
+		min-height:80px;
+		
+	}
+	div.floor5 div.footer3{
+		float:right;
+		outline:1px dotted darkgreen;
+		margin-left:auto;
+		width:230px;
+		min-height:50px;
+		
+	}
+	
+
+
+	
+
+
