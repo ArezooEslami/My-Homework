@@ -1,0 +1,148 @@
+ div.container{
+		 
+	 }
+	 
+	 div.floor1,
+	 div.floor2,
+	 div.floor3,
+	 div.floor4,
+	 div.floor5,
+	 div.floor6,
+	 div.floor7{
+		 outline:1px solid black;
+		 padding:1px;
+ 
+	 }
+	 
+	 div.floor1 > div,
+	 div.floor2 > div,
+	 div.floor3 > div,
+	 div.floor4 > div,
+	 div.floor5 > div,
+	 div.floor6 > div,
+	 div.floor7 > div,
+	 div.conect > div{
+		  outline:1px double darkmagenta ;
+	 }
+/*-------------------------------------------*/	 
+	 
+	 div.floor1{
+		  margin-top:20px;
+	 }
+	 
+	 div.info{
+		
+		 min-height:30px;
+		 
+	 }
+	 
+/*-------------------------------------------*/
+	div.logo{
+		min-height:60px;
+		
+	}
+	
+	div.note{
+		min-height:20px;
+		margin-top:20px;
+		
+	}
+	
+	div.menu{
+		min-height:30px;
+		margin-top:15px;
+		
+	}
+/*-------------------------------------------*/
+	div.floor3{
+		padding:20px;
+		padding-bottom:50px;
+	}
+	
+	div.baner{
+		min-height:320px;	
+	}
+	
+	div.header{
+		min-height:100px;
+		
+	}
+	
+	div.para{
+		min-height:180px;
+		margin-top:10px;	
+	}
+	div.link{
+		min-height:10px;
+		margin-top:30px;	
+	}
+/*-------------------------------------------*/
+	div.recent-work{
+		min-height:15px;
+	}
+
+/*-------------------------------------------*/
+	div.floor5{
+		padding:20px 15px 50px 20px;
+	}
+	
+	div.top-work{
+		min-height:120px;
+		
+	}
+	div.p-work{
+		min-height:70px;
+		
+	}
+	
+	div.divider{
+		margin-top:230px;
+		min-height:20px;
+		
+	}
+/*-------------------------------------------*/
+	
+	div.floor6{
+		padding:25px 15px 20px 15px;
+	}
+	
+	div.conect{
+		min-height:300px;
+	}
+	
+	div.titr{
+		min-height:15px;
+	}
+
+	
+	div.info1{
+		min-height:100px;
+		margin-top:25px;
+		padding:10px 15px 15px 15px;
+	}
+	
+	div.eleman{
+		min-height:60px;
+		margin-top:20px;
+	}
+	
+	div.header1{
+		min-height:20px;
+		margin-top:5px;
+	}
+	
+	div.para1{
+		min-height:70px;
+	}
+/*-------------------------------------------*/
+	div.floor7{
+		padding:40px 15px 50px 15px;
+
+	}
+	div.footer1{
+		min-height:40px;
+	}
+	
+	div.footer2{
+		min-height:30px;
+	}
